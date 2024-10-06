@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RPCgame", "RPCgame\RPCgame.pyproj", "{91D0163E-94F5-4922-A122-AB5E90EEB9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D0163E-94F5-4922-A122-AB5E90EEB9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D0163E-94F5-4922-A122-AB5E90EEB9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097DCD45-719E-4F55-9B71-53DDB43D3717}
+	EndGlobalSection
+EndGlobal
